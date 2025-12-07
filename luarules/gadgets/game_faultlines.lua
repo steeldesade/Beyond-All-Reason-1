@@ -6,7 +6,7 @@ function gadget:GetInfo()
     return {
         name      = "Fault Line Earthquakes",
         desc      = "Dynamic regenerating random curvy faultlines, crack pre-visual, then terrain collapse + sounds",
-        author    = "ChatGPT + Lonie",
+        author    = "Steel",
         date      = "2025",
         license   = "GPL",
         layer     = 0,

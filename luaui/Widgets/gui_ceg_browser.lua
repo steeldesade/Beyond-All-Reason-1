@@ -7,7 +7,7 @@ function widget:GetInfo()
     return {
         name    = "CEG Browser",
         desc    = "Spawn CEGs for testing (with multi-select and multi-spawn)",
-        author  = "Steel + a lot of help from AI",
+        author  = "Steel",
         layer   = 1000,
         enabled = true,
     }

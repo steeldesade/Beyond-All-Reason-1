@@ -2,7 +2,7 @@ function gadget:GetInfo()
     return {
         name    = "CEG Tester",
         desc    = "Spawns CEGs on demand for testing",
-        author  = "Lonie + ChatGPT",
+        author  = "Steel",
         enabled = true,
         layer   = 0,
     }

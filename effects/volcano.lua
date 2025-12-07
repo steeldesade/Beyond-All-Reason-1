@@ -1,4 +1,4 @@
--- Cinematic volcano effects for BAR
+-- Cinematic volcano effects for BAR Made by Steel
 -- Hybrid style: tall ash column + wide lateral expansion
 -- All effects are 10x+ larger than the earlier “tiny” versions.
 

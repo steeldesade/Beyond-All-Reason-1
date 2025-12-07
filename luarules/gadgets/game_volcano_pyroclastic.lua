@@ -6,7 +6,7 @@ function gadget:GetInfo()
     return {
         name    = "Volcano Pyroclastic Eruptions",
         desc    = "Cinematic volcano eruption event for BAR",
-        author  = "Lonie + ChatGPT",
+        author  = "Steel",
         date    = "Dec 2025",
         layer   = 0,
         enabled = true,

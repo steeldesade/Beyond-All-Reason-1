@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
--- Volcano Projectile Launcher (dummy unit with embedded weaponDef)
+-- Volcano Projectile Launcher (dummy unit with embedded weaponDef) Made by Steel
 --------------------------------------------------------------------------------
 
 return {
