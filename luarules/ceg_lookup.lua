@@ -1,4 +1,4 @@
--- LuaRules/ceg_lookup.lua Made by Steel
+-- LuaRules/ceg_lookup.lua Made by Steel.
 -- BAR-friendly CEG lookup helper.
 -- Scans effects/*.lua and builds tables of available CEGs.
 
